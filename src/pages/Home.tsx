@@ -1,5 +1,5 @@
 const IMG = '/images/IMG.jpg';
-import secIMG from "../images/secIMG.jpg"
+const secIMG = "../images/secIMG.jpg"
 import FallingHearts from "../components/HeartEffect";
 export default function Home(){
     return(
